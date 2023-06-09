@@ -10,4 +10,4 @@ This was an exercise to better understand the setTimeout function and how to bui
 
 
 ## Screenshots
-(image.png)
+![image](https://github.com/wagnergabe/Auto-Text-Effect/assets/102180936/64e02fe9-80ca-4c93-9f77-13fee1164b08)
