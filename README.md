@@ -1,0 +1,1 @@
+Create a automated text output function that is affected by the user's input for speed. 
